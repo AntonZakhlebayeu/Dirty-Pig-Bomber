@@ -5,7 +5,6 @@ Now in the project:
 - Fully implemented core game mechanics.
 - Added particles when bomb explodes.
 - The player's stats is saved.
-- Implemented battles with 6 bosses.
 - Added simple animations.
 - Implemented simple AI for enemies.
 
