@@ -13,3 +13,7 @@ For UI now implemented:
 
 - UI screens for menu, game screen and defeat screen.
 - Partially written UI manager.
+
+
+https://user-images.githubusercontent.com/91548851/159716361-49cbc6b0-b3d9-42f2-ac20-952b9e1a1e1c.mp4
+
