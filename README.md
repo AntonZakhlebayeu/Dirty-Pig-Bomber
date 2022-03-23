@@ -1,5 +1,6 @@
 # Dirty-Pig-Bomber
-Simple bomber game with main goal to explode farmer and his dog.
+Simple bomber game with main goal to stun farmer and his dog at the same time.
+Unit is stunned after three bombs explode.
 
 Now in the project:
 - Fully implemented core game mechanics.
